@@ -1,1 +1,2 @@
-# text-encode
+run 'java main' to run the program
+
