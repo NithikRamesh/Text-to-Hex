@@ -1,9 +1,9 @@
 # Requirements:
- java
++ java
 
-Installation:
- git clone https://NithikRamesh/text-encode
- cd text-encode
+# Installation:
+`sudo apt update ; apt install git ; git clone https://NithikRamesh/Text-to-Hex ; cd Text-to-Hex`
 
-run 'java main' to run the program
+# Usage
+Type in `java main` to run the program
 
